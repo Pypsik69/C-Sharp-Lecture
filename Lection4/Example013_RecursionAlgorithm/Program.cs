@@ -10,7 +10,7 @@ table[1, 2] = "слово";              // если у нас 2 строки т
 //         Write($"{table[rows, columns]}-");
 //     }
 //     WriteLine();
-// }
+// } 7777
 
 int[,] matrix = new int[3, 4];
 FillArray(matrix);
